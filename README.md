@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Zheng Zuo. A full stack developer, blockchain engineer and a Machine Learning Engineer
+
 <!--
 **Zheng-Zuo/Zheng-Zuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
