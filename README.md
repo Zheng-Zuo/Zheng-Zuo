@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm Zheng Zuo. A full stack developer, blockchain engineer and a Machine Learning Engineer
+I'm Zheng Zuo.
+
+- 🔭 Tech Stack: Javascript | Typescript | Python | Solidity | Hardhat | Ethers.js | PostgreSQL | MySQL | MongoDB | Hive | GreenPlum | Node | Express | React | Next.js | Tailwind CSS | Pytorch | Pandas | Flask | Git | Mocha
+- 🌱 Areas: Frontend | Backend | Full-Stack | Smart Contract | Machine Learning | Microservices | Data Engineering
+- 👯 Cloud Computing: AWS | Azure Cloud | Alibaba Cloud | Tencent Cloud
+- 😄 Languages: English | Chinese - All professional proficiency and above
+
 
 <!--
 **Zheng-Zuo/Zheng-Zuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
