@@ -2,10 +2,12 @@
 
 I'm Zheng Zuo.
 
-- 🔭 Tech Stack: Javascript | Typescript | Python | Solidity | Hardhat | Ethers.js | PostgreSQL | MySQL | MongoDB | Hive | GreenPlum | Node | Express | React | Next.js | Tailwind CSS | Pytorch | Pandas | Flask | Git | Mocha
-- 🌱 Areas: Frontend | Backend | Full-Stack | Smart Contract | Machine Learning | Microservices | Data Engineering
-- 👯 Cloud Computing: AWS | Azure Cloud | Alibaba Cloud | Tencent Cloud
-- 😄 Languages: English | Chinese - All professional proficiency and above
+- 🔭 Languages: Python | Javascript | Typescript | Solidity
+- 🌱 Backend: Node.js | Express.js | Flask | GraphQL | REST API | Hardhat
+- 👯 Frontend: React | Next.js | Tailwind CSS | Redux | Context
+- 🤔 Database: PostgreSQL | MySQL | MongoDB | Hive | GreenPlum
+- 💬 Devops: Docker | Kubernetes | Jenkins | CI/CD | Jest | Nginx | Git | AWS | Azure
+- 📫 Machine Learning: Pytorch | Scikit-Learn
 
 
 <!--
