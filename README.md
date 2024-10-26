@@ -2,8 +2,9 @@
 
 I'm Zheng Zuo.
 
-- 🔭 Languages: Python | Javascript | Typescript | Solidity
-- 🌱 Backend: Node.js | Express.js | Flask | GraphQL | REST API | Hardhat
+- 🔭 Languages: Solidity | Rust | Python | Javascript | Typescript
+- 👋 Blockchain Frameworks: Hardhat | Foundry | Anchor
+- 🌱 Backend: Node.js | Express.js | Flask | GraphQL | REST API 
 - 👯 Frontend: React | Next.js | Tailwind CSS | Redux | Context
 - 🤔 Database: PostgreSQL | MySQL | MongoDB | Hive | GreenPlum
 - 💬 Devops: Docker | Kubernetes | Jenkins | CI/CD | Jest | Nginx | Git | AWS | Azure
